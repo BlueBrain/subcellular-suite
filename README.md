@@ -3,7 +3,7 @@
 A suite to simulate and visualize brain molecular networks.
 
 - [BlueNaaS-Subcellular](#bluenaas-subcellular) — A web environment for the simulation of brain molecular networks.
-- [Bluepysubcellular](#bluepysubcellular) — A Python interface to BlueNaaS-Subcellular.
+- [BluePySubcellular](#bluepysubcellular) — A Python interface to BlueNaaS-Subcellular.
 
 
 ## BlueNaaS-Subcellular
@@ -20,7 +20,7 @@ It aims to integrate several existing tools such as STEPs, and BioNetGen into an
 It allows users to import or define models and run simulations. It includes some visualization tools such as a geometry viewer, 
 a contact map and a reactivity network graph.
 
-## Bluepysubcellular
+## BluePySubcellular
 
 Useful links:
 [GitHub repo](https://github.com/BlueBrain/Bluepysubcellular),
